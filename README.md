@@ -1,3 +1,5 @@
+![BCDSI](https://img.shields.io/badge/BCDSI-reflex--based%20AI%20safety-6FB64A)
+
 # **BCDSI is a reflex, not a command.**
 
 **BCDSI (Brain–Computer Divergence Safety Intervention)** is a real-time safety intervention mechanism that autonomously detects and regulates cognitive divergence in AI systems to preserve systemic stability and survival prior to external control.
