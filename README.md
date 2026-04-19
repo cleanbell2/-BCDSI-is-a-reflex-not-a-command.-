@@ -206,5 +206,5 @@ print(decision.intervention_level)
 
 ## 📜 License
 
-This project is proprietary software designed by Bell & Echo.
+This project is proprietary software designed by Bell 
 All rights reserved.
